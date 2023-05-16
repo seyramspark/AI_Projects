@@ -4,7 +4,7 @@ import openai
 import env
 
 # openai key
-openai.api_key = env.OPEN_AI_KEY
+openai.api_key = env.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
 
 # initialize speech engine
 engine = pyttsx3.init()
